@@ -1,0 +1,31 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+input {
+    margin: 5px;
+}
+
+button{
+    background-color: rgb(18, 162, 172);
+    height: 50px;
+    width: 100px;
+    margin-top: 80px;
+}
+
+#header {
+    margin-bottom: 30px;
+}
+
+#coinArea{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
